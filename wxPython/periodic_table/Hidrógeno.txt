@@ -1,0 +1,69 @@
+
+
+Nombre                                 Hidrógeno \n \n
+								    
+Número atómico                         1  \n \n
+								    
+Valencia                               1 \n \n
+								    
+Estado de oxidación 	               +1 \n \n 
+								    
+Electronegatividad                     2,1 \n \n
+								    
+Radio covalente (Å)                    0,37 \n \n
+								    
+Radio iónico (Å)                       2,08 \n \n
+								    
+Radio atómico (Å)                      - \n \n
+								    
+Configuración electrónica              1s1 \n \n 
+
+Primer potencial de ionización (eV)    13,65 \n \n 
+
+Masa atómica (g/mol)                   1,00797  \n \n 
+								    
+Densidad (g/ml)                        0,071    \n \n 
+								    
+Punto de ebullición (ºC)               -252,7   \n \n 
+								    
+Punto de fusión (ºC)                   -259,2   \n \n 
+								    
+Descubridor                            Boyle en 1671 \n \n 
+	
+
+Hidrógeno \n
+
+Primer elemento de la tabla periódica. En condiciones normales es un gas incoloro, inodoro e insípido, compuesto de moléculas diatómicas, H2. El átomo de hidrógeno, símbolo H, consta de un núcleo de unidad de carga positiva y un solo electrón. Tiene número atómico 1 y peso atómico de 1.00797. Es uno de los constituyentes principales del agua y de toda la materia orgánica, y está distribuido de manera amplia no sólo en la Tierra sino en todo el universo. Existen 3 isótopos del hidrógeno: el protio, de masa 1, que se encuentra en más del 99.98% del elemento natural; el deuterio, de masa 2, que se encuentra en la naturaleza aproximadamente en un 0.02%, y el tritio, de masa 3, que aparece en pequeñas cantidades en la naturaleza, pero que puede producirse artificialmente por medio de varias reacciones nucleares.
+	
+Usos: 
+
+El empleo más importante del hidrógeno es en la síntesis del amoniaco. La utilización del hidrógeno está aumentando con rapidez en las operaciones de refinación del petróleo, como el rompimiento por hidrógeno (hydrocracking), y en el tratamiento con higrógeno para eliminar azufre. Se consumen grandes cantidades de hidrógeno en la hidrogenación catalítica de aceites vegetales líquidos insaturados para obtener grasas sólidas. La hidrogenación se utiliza en la manufactura de productos químicos orgánicos. Grandes cantidades de hidrógeno se emplean como combustible de cohetes, en combinación con oxígeno o flúor, y como un propulsor de cohetes impulsados por energía nuclear.
+Propiedades: El hidrógeno común tiene un peso molecular de 2.01594. El gas tiene una densidad de 0.071 g/l a 0ºC y 1 atm. Su densidad relativa, comparada con la del aire, es de 0.0695. El hidrógeno es la sustancia más inflamable de todas las que se conocen. El hidrógeno es un poco más soluble en disolventes orgánicos que en el agua. Muchos metales absorben hidrógeno. La adsorción del hidrógeno en el acero puede volverlo quebradizo, lo que lleva a fallas en el equipo para procesos químicos.
+
+A temperaturas ordinarias el hidrógeno es una sustancia poco reactiva a menos que haya sido activado de alguna manera; por ejemplo, por un catalizador adecuado. A temperaturas elevadas es muy reactivo.
+
+Aunque por lo general es diatómico, el hidrógeno molecular se disocia a temperaturas elevadas en átomos libres. El hidrógeno atómico es un agente reductor poderoso, aun a la temperatura ambiente. Reacciona con los óxidos y los cloruros de muchos metales, entre ellos la plata, el cobre, el plomo, el bismuto y el mercurio, para producir los metales libres. Reduce a su estado metálico algunas sales, como los nitratos, nitritos y cianuros de sodio y potasio. Reacciona con cierto número de elementos, tanto metales como no metales, para producir hidruros, como el NaH, KH, H2S y PH3. El hidrógeno atómico produce peróxido de hidrógeno, H2O2, con oxígeno. Con compuestos orgánicos, el hidrógeno atómico reacciona para generar una mezcla compleja de productos; con etileno, C2H4, por ejemplo, los productos son etano, C2H6, y butano, C4H10. El calor que se libera cuando los átomos de hidrógeno se recombinan para formar las moléculas de hidrógeno se aprovecha para obtener temperaturas muy elevadas en soldadura de hidrógeno atómico.
+
+El hidrógeno reacciona con oxígeno para formar agua y esta reacción es extraordinariamente lenta a temperatura ambiente; pero si la acelera un catalizador, como el platino, o una chispa eléctrica, se realiza con violencia explosiva. Con nitrógeno, el hidrógeno experimenta una importante reacción para dar amoniaco. El hidrógeno reacciona a temperaturas elevadas con cierto número de metales y produce hidruros. Los óxidos de muchos metales son reducidos por el hidrógeno a temperaturas elevadas para obtener el metal libre o un óxido más bajo. El hidrógeno reacciona a temperatura ambiente con las sales de los metales menos electropositivos y los reduce a su estado metálico. En presencia de un catalizador adecuado, el hidrógeno reacciona con compuestos orgánicos no saturados adicionándose al enlace doble.
+
+Compuestos principales: El hidrógeno es constituyente de un número muy grande de compuestos que contienen uno o más de otros elementos. Esos compuestos incluyen el agua, los ácidos, las bases, la mayor parte de los compuestos orgánicos y muchos minerales. Los compuestos en los cuales el hidrógeno se combina sólo con otro elemento se denominan generalmente hidruros.
+
+Preparación: Se pueden aplicar muy diversos métodos para preparar hidrógeno gaseoso. La elección del método depende de factores como la cantidad de hidrógeno deseada, la pureza requerida y la disponibilidad y costo de la materia prima. Entre los procesos que más se emplean están las reacciones de metales con agua o con ácidos, la electrólisis del agua, la reacción de vapor con hidrocarburos u otros materiales orgánicos, y la descomposición térmica de hidrocarburos. La principal materia prima para la producción de hidrógeno son los hidrocarburos, como el gas natural, gas de aceite refinado, gasolina, aceite combustible y petróleo crudo.
+
+\n
+Efectos del Hidrógeno sobre la salud
+\n
+
+Efectos de la exposición al hidrógeno: Fuego: Extremadamente inflamable. Muchas reacciones pueden causar fuego o explosión. Explosión: La mezcla del gas con el aire es explosiva. Vías de exposición: La sustancia puede ser absorbida por el cuerpo por inhalación. Inhalación: Altas concentraciones de este gas pueden causar un ambiente deficiente de oxígeno. Los individuos que respiran esta atmósfera pueden experimentar síntomas que incluyen dolores de cabeza, pitidos en los oídos, mareos, somnolencia, inconsciencia, náuseas, vómitos y depresión de todos los sentidos. La piel de una víctima puede presentar una coloración azul. Bajo algunas circunstancias se puede producir la muerte. No se supone que el hidrógeno cause mutagénesis, embriotoxicidad, teratogenicidad o toxicidad reproductiva. Las enfermedades respiratorias pre-existentes pueden ser agravadas por la sobreexposición al hidrógeno. Riesgo de inhalación: Si se producen pérdidas en su contenedor, se alcanza rápidamente una concentración peligrosa.
+
+Peligros físicos: El gas se mezcla bien con el aire, se forman fácilmente mezclas explosivas. El gas es más ligero que el aire.
+
+Peligros químicos: El calentamiento puede provocar combustión violenta o explosión. Reacciona violentamente con el aire, oxígeno, halógenos y oxidantes fuertes provocando riesgo de incendio y explosión. Los catalizadores metálicos, tales como platino y níquel, aumentan enormemente estas reacciones.
+
+Elevadas concentraciones en el aire provocan una deficiencia de oxígeno con el riesgo de inconsciencia o muerte. Comprobar el contenido de oxígeno antes de entrar en la habitación. No hay advertencia de olor si hay concentraciones tóxicas presentes. Medir concentraciones de hidrógeno con un detector de gas adecuado (un detector normal de gas inflamable no es adecuado para este propósito).
+Efectos ambientales del Hidrógeno
+Estabilidad ambiental: El hidrógeno existe naturalmente en la atmósfera. El gas se disipará rápidamente en áreas bien ventiladas.
+
+Efecto sobre plantas o animales: Cualquier efecto en animales será debido a los ambientes deficientes de oxígeno. No se anticipa que tenga efectos adversos sobre las plantas, aparte de la helada producida en presencia de los gases de expansión rápida.
+
+Efecto sobre la vida acuática: Actualmente no se dispone de evidencia sobre el efecto del hidrógeno en la vida acuática.

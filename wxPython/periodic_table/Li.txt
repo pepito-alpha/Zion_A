@@ -1,0 +1,55 @@
+
+Nombre                               Litio  
+
+Número atómico                       3  
+
+Valencia                             1  
+
+Estado de oxidación 	            +1  
+
+Electronegatividad                   1, 0  
+
+Radio covalente (Å)                  1,34  
+
+Radio iónico (Å)                     0,60  
+
+Radio atómico (Å)                    1,55  
+
+Configuración electrónica            1s22s1  
+
+Primer potencial de ionización (eV)  5,41  
+
+Masa atómica (g/mol)                 6,941  
+
+Densidad (g/ml)                      0,53  
+
+Punto de ebullición (ºC)             1330  
+
+Punto de fusión (ºC)                 180,5  
+
+Descubridor                          George Urbain en 1907
+
+
+Litio
+
+El litio encabeza la familia de los metales alcalinos en la tabla periódica. En la naturaleza se encuentra como una mezcla de los isótopos Li6 y Li7. Es el metal sólido más ligero, es blando, de bajo punto de fusión y reactivo. Muchas propiedades físicas y químicas son tan o más parecidas a las de los metales alcalinotérreos que a las de su grupo.
+
+El principal uso industrial del litio es en forma de estearato de litio como espesante para grasas lubricantes. Otras aplicaciones importantes de compuestos de litio son en cerámica, de modo específico en la formulación de esmaltes para porcelana; como aditivo para alargar la vida y el rendimiento en acumuladores alcalinos y en soldadura autógena y soldadura para latón. El litio es un elemento moderadamente abundante y está presente en la corteza terrestre en 65 partes por millón(ppm).
+
+Esto lo coloca por debajo del níquel, cobre y tungsteno y por encima del cerio y estaño, en lo referente a abundancia.
+
+Entre las propiedades físicas más notables del litio están el alto calor específico (capacidad calorifica), el gran intervalo de temperatura de la fase líquida, alta conductividad térmica, baja viscosidad y muy baja densidad. El litio metálico es soluble en aminas alifáticas de cadena corta, como la etilamina. Es insoluble en los hidrocarburos.
+
+El litio experimenta un gran número de reacciones, tanto con reactivos orgánicos como inorgánicos. Reacciona con el oxígeno para formar el monóxido y el peróxido. Es el único metal alcalino que reacciona con el nitrógeno a temperatura ambiente para producir un nitruro, el cual es de color negro. Reacciona fácilmente con el hidrógeno a casi 500ºC (930ºF) para formar hidruro de litio. La reacción del litio metálico con agua es un extrmo vigorosa. El litio reacciona en forma directa con el carbono para producir el carburo. Se combina fácilmente con los halógenos y forma halogenuros con emisión de luz. Aunque no reacciona con hidrocarburos parafínicos, experimenta reacciones de adición con alquenos sustituidos por grupos arilo y dienos. También reacciona con compuestos acetilénicos, formando acetiluros de litio, los cuales son importantes en la síntesis de la vitamina A.
+
+El compuesto principal del litio es el hidróxido de litio. Es un polvo blanco; el material comercial es hidróxido de litio monohidratado. El carbonato tiene aplicación en la industria de cerámica y en la medicina como un antidepresivo. Tanto el bromuro como el cloruro de litio forman salmueras concentradas que tienen la propiedad de absorber humedad en un intervalo amplio de temperaturas; estas salmueras se emplean en los sistemas comerciales de aire acondicionado.
+Efectos del Litio sobre la salud
+
+Efectos de la exposición al litio: Fuego: Inflamable. Muchas reacciones pueden causar fuego o explosión. Libera vapores (o gases) irritantes y tóxicos en un incendio. Explosión: Riesgo de incendio y explosión en contacto con sustancias combustibles y agua. Inhalación: Sensación de quemadura. Tos. Respiración trabajosa. Falta de aire. Dolor de garganta. Los síntomas pueden ser retrasados. Piel: Enrojecimiento. Quemaduras cutáneas. Dolor. Ampollas. Ojos: Enrojecimiento. Dolor. Quemaduras severas y profundas. Ingestión: Calambres abdominales. Dolor abdominal. Sensación de quemadura. Náuseas. Shock o colapso. Vómitos. Debilidad. Vías de exposición: La sustancia puede ser absorbida por el cuerpo por inhalación de su aerosol y por ingestión. Riesgo de inhalación: La evaporación a 20°C es insignificante; sin embargo cuando se dispersa se puede alcanzar rápidamente una concentración peligrosa de partículas suspendidas en el aire. Efectos de la exposición a corto plazo: La sustancia es corrosiva para los ojos, la piel y el tracto respiratorio. Corrosivo si es ingerido. La inhalación de la sustancia puede causar edema pulmonar. Normalmente los síntomas del edema pulmonar no se manifiestan hasta después de unas horas y son agravados por el esfuerzo físico. El reposo y la observación médica son por lo tanto esenciales. Debe ser considerada la administración inmediata de un spray apropiado, por un médico o una persona autorizada por él.
+
+Riesgos químicos: Su calentamiento puede provocar combustión violenta o explosión. La sustancia puede arder espontáneamente en contacto con el aire cuando se dispersa en finas partículas. Cuando se calienta se forman vapores tóxicos. Reacciona violentamente con oxidantes fuertes, ácidos y muchos compuestos (hidrocarburos, halógenos, halones, cemento, arena y asbestos) provocando peligro de incendio y explosión. Reacciona violentamente con el agua, formando gas hidrógeno altamente inflamable y vapores corrosivos de hidróxido de litio.
+Efectos ambientales del Litio
+
+El litio metálico reacciona con el nitrógeno, el oxígeno, y el vapor de agua en el aire. Consecuentemente, la superficie del litio se recubre de una mezcla de hidróxido de litio (LiOH), carbonato de litio (Li2CO3), y nitruro de litio (Li3N). El hidróxido de litio representa un peligro potencialmente significativo porque es extremadamente corrosivo. Se debe prestar especial atención a los organismos acuáticos. 
+
+Fuente: https://www.lenntech.es/periodica/elementos/li.htm

@@ -1,0 +1,71 @@
+Nombre                                           Plata  
+							         
+Número atómico                               47  
+							         
+Valencia                                           1  
+							         
+Estado de oxidación                         +1  
+							         
+Electronegatividad                           1,9
+							         
+Radio iónico (nm)                            0,126  
+							         
+Radio atómico (nm)                           0,144  
+							         
+Configuración electrónica                    [Kr] 4d10 5s1
+
+Primer potencial de ionización (kj/mol)      758  
+
+Segundo potencial de ionización (kj/mol) 	 2061  
+
+Potencial estándar 	                         0,779 V (Ag+ / Ag)  
+
+Masa atómica (g/mol)                         107,87 g.mol-1
+
+Densidad (g/cm3 a 20oC)                      10,5  
+
+Punto de ebullición (ºC)                     2212  
+
+Punto de fusión (ºC)                         962  
+
+Descubridor                                  Los antiguos
+	
+
+
+Plata
+
+Elemento químico, símbolo Ag, número atómico 47 y masa atómica 107.870. Es un metal lustroso de color blanco-grisáceo. Desde el punto de vista químico, es uno de los metales pesados y nobles; desde el punto de vista comercial, es un metal precioso. Hay 25 isótopos de la plata. Sus masas atómicas fluctúan entre 102 y 117.
+
+En la mayor parte de sus aplicaciones, la plata se alea con uno o más metales. La plata, que posee las más altas conductividades térmica y eléctrica de todos los metales, se utiliza en puntos de contacto eléctricos y electrónicos. También se emplea mucho en joyería y piezas diversas. Entre la aleaciones en que es un componente están las amalgamas dentales y metales para cojinetes y pistones de motores.
+
+La plata es un elemento bastante escaso. Algunas veces se encuentra en la naturaleza como elemento libre (plata nativa) o mezclada con otros metales. Sin embargo, la mayor parte de las veces se encuentra en minerales que contienen compuestos de plata. Los principales minerales de plata son la argentita, la cerargirita o cuerno de plata y varios minerales en los cuales el sulfuro de plata está combinado con los sulfuros de otros metales. Aproximadamente tres cuartas partes de la plata producida son un subproducto de la extracción de otros minerales, sobre todo de cobre y de plomo.
+
+La plata pura es un metal moderadamente suave (2.5-3 en la escala de dureza de Mohs), de color blanco, un poco más duro que el oro. Cuando se pule adquiere un lustre brillante y refleja el 95% de la luz que incide sobre ella. Su densidad es 10.5 veces la del agua. La calidad de la plata, su pureza, se expresa como partes de plata pura por cada 1000 partes del metal total. La plata comercial tiene una pureza del 999 (ley 0.999).
+
+Aunque la plata es el metal noble más activo químicamente, no es muy activa comparada con la mayor parte de los otros metales. No se oxida fácilmente (como el hierro), pero reacciona con el azufre o el sulfuro de hidrógeno para formar la conocida plata deslustrada. El galvanizado de la plata con rodio puede prevenir esta decoloración. La plata no reacciona con ácidos diluidos no oxidantes (ácidos clorhídrico o sulfúrico) ni con bases fuertes (hidróxido de sodio). Sin embargo, los ácidos oxidantes (ácido nítrico o ácido sulfúrico concentrado) la disuelven al reaccionar para formar el ion positivo de la plata, Ag+. Este ion, que está presente en todas las soluciones simples de compuestos de plata solubles, se reduce fácilmente a metal libre, como sucede en la deposición de espejos de plata por agentes reductores orgánicos. La plata casi siempre es monovalente en sus compuestos, pero se conocen óxidos, fluoruro y sulfuro divalentes. Algunos compuesto de coordinación de la plata contienen plata divalente y trivalente. Aunque la plata no se oxida cuando se calienta, puede ser oxidada química o electrolíticamente para formar óxido o peróxido de plata, un agente oxidante poderoso. Por esta actividad, se utiliza mucho como catalizador oxidante en la producción de ciertos materiales orgánicos.
+Efectos de la Plata sobre la salud
+
+Las sales solubles de plata, especialmente el nitrato de plata (AgNO3), son letales en concentraciones de hasta 2 g. Los compuestos de plata pueden ser absorbidos lentamente por los tejidos corporales, con la consecuente pigmentación azulada o negruzca de la piel (argiria).
+
+Contacto con los ojos: Puede causar graves daños en la córnea si el líquido se pone en contacto con los ojos. Contacto con la piel: Puede causar irritación de la piel. Contacto repetido y prolongado con le piel puede causar dermatitis alérgica. Peligros de la inhalación: Exposición a altas concentraciones del vapor puede causar mareos, dificultades para respirar, dolores de cabeza o irritación respiratoria. Concentraciones extremadamente altas pueden causar somnolencia, espasmos, confusión, inconsciencia, coma o muerte.
+
+El líquido o el vapor pueden irritar la piel, los ojos, la garganta o los pulmones. El mal uso intencionado consistente en la concentración deliberada de este producto e inhalación de su contenido puede ser dañino o mortal.
+
+Peligros de la ingestión: Moderadamente tóxico. Puede causar molestias estomacales, náuseas, vómitos, diarrea y narcosis. Si el material se traga y es aspirado en los pulmones o si se produce el vómito, puede causar neumonitis química, que puede ser mortal.
+
+Órganos de destino: La sobre-exposición crónica a un componente o varios componentes de la plata tiene los siguientes efectos en los animales de laboratorio:
+
+    Daños renales
+    Daños oculares
+    Daños pulmonares
+    Daños hepáticos
+    Anemia
+    Daños cerebrales
+
+La sobre-exposición crónica a un componente o varios componentes de la plata se supone que tiene los siguientes efectos en los humanos:
+
+    Anormalidades cardiacas
+    Se ha informado de la relación entre sobre-exposiciones repetidas y prolongadas a disolventes y daños cerebrales y del sistema nervioso permanentes.
+    La respiración repetida o el contacto con la piel de la metil-etil-cetona puede aumentar la potencia de las neurotoxinas tales como el hexano si la exposición tiene lugar al mismo tiempo.
+	
+Fuente: https://www.lenntech.es/periodica/elementos/ag.htm 
