@@ -28,9 +28,26 @@ def f(a):
                 continue
     return c
 
-a = 120
-#b = 2.5-2
-b = (5/2) - int(5/2)
 
-print (f(a))
+a = 100000
+#b = 2.5-2
+d = f(a)
+b = len(d)
+
+print (d)
+
+print (b)
+
+
+with open("Lista.txt","w") as file:
+    for i in range(b):
+        j = i+1
+        file.write('%d  , ' %j )
+        file.write(' %d \n' %d[i])
+    file.close()
+
+
+
+
+
 
